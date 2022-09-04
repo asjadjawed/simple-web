@@ -16,7 +16,7 @@ const students = [
     job: "Devops Engineer",
   },
   {
-    name: "Ubaid",
+    name: "Ubaid Ullah",
     job: "CEO",
   },
 ];
