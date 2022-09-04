@@ -8,7 +8,7 @@ const students = [
     job: "Engineer",
   },
   {
-    name: "Amna",
+    name: "Amna Rahman",
     job: "Manager",
   },
   {
