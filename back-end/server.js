@@ -8,6 +8,10 @@ const students = [
     job: "Engineer",
   },
   {
+    name: "Ahmad Bilal Shehanshah",
+    job: "DevOps",
+  },
+  {
     name: "Amna Rahman",
     job: "Manager",
   },
